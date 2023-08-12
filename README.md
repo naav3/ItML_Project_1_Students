@@ -1,2 +1,2 @@
-# ItML_Project_1
+# Text Classification
 Public repository for project #1. 
